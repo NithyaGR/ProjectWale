@@ -9,7 +9,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
-
+//adding the comments - successfully editing from gitbash
 public class TestBase {
 	
 	protected WebDriver driver;
