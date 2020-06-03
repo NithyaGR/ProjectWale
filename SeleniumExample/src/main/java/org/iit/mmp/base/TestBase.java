@@ -10,6 +10,7 @@ import org.openqa.selenium.firefox.FirefoxDriver;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
 //adding the comments - successfully editing from gitbash
+//editting and going to commit and merge - simulating as a student 2's day 1 job
 public class TestBase {
 	
 	protected WebDriver driver;
