@@ -1,3 +1,0 @@
-clear
-vi TestBase.java
-
